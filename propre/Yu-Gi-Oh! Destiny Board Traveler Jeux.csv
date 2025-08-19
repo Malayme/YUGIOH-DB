@@ -1,0 +1,3 @@
+Passcode,Name,Status,Attribute,type,link,link_arrows,rank,pendulum_scale,level,attack,defense,spell_attribute,summoning_condition,pendulum_condition,card_text,card_supports,card_anti_supports,card_actions,effect_types,
+43580269,"Émès, L'Infini",Unlimited(OCG)/Unlimited(TCG),LUMIÈRE,[Machine/Effet],,,,,Niveau 7,2500,2000,,,,"A chaque fois que cette carte détruit un monstre de votre adversaire et l'envoie au Cimetière à l'issue d'un combat, augmentez l'ATK de cette carte de 700 points.",,,Activates when it destroys a monster by battle,Trigger,
+82035781,Bête à Deux Têtes,Unlimited(OCG)/Unlimited(TCG),FEU,[Bête/Effet],,,,,Niveau 6,1700,1900,,,,Cette carte peut attaquer deux fois durant la même Battle Phase.,,,,Continuous,

@@ -1,0 +1,3 @@
+Passcode,Name,Status,Attribute,type,link,link_arrows,rank,pendulum_scale,level,attack,defense,spell_attribute,summoning_condition,pendulum_condition,card_text,card_supports,card_anti_supports,card_actions,effect_types,
+74677422,Dragon Noir aux Yeux Rouges,Unlimited(OCG)/Unlimited(TCG)/Unlimited(TCGSpeed Duel),TÉNÈBRES,[Dragon/Normal],,,,,Niveau 7,2400,2000,,,,Dragon féroce à l'attaque meurtrière.,,,,,
+61405855,Épée de l'Âme du Dragon,Unlimited(OCG)/Unlimited(TCG)/Unlimited(TCGSpeed Duel),MAGIE,,,,,,,,,,,,"Équipable uniquement à un monstre Guerrier. Il gagne 700 ATK. Après le calcul des dommages, si le monstre équipé a combattu un monstre Dragon : détruisez le monstre à la fin de la Battle Phase.",Warrior,Dragon,,Condition/Continuous-like/Trigger-like,

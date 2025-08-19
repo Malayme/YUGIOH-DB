@@ -1,0 +1,13 @@
+Running on Linux
+Successfully loaded local database from 'yugioh_card_database.json'.
+Updating /home/yann/yugioh_cardlist_scraper/yugioh-card-history - this may take a couple of minutes... Done
+on 133: error occured for card Mobius le Monarque de Glace : Mobius the Frost Monarch: url: https://yugipedia.com/wiki/Mobius_the_Frost_MonarchACK L’AUBE ÉPIQUE, Dragon à Recul
+on 271: error occured for card Terreurs de la Surracine : Terrors of the Overroot: url: https://yugioh.fandom.com/wiki/Terrors_of_the_OverrrootSTRUCTURE - LE ROI CRAMOISI, Place à la Résistance
+on 271: error occured for card Terreurs de la Surracine : Terrors of the Overroot: url: https://yugipedia.com/wiki/Terrors_of_the_Overrroot DE STRUCTURE - LE ROI CRAMOISI, Place à la Résistance
+on 330: error occured for card Taïaut Springans : Tally-ho! Springans: url: https://yugioh.fandom.com/wiki/Tally-Ho!_Springansng pack: BOÎTE DU 25E ANNIVERSAIRE - LES MIROIRS DU DUEL, Création Numeron
+on 330: error occured for card Taïaut Springans : Tally-ho! Springans: url: https://yugipedia.com/wiki/Tally-Ho!_Springansessing pack: BOÎTE DU 25E ANNIVERSAIRE - LES MIROIRS DU DUEL, Création Numeron
+on 330: error occured for card Click et Écho : Click & Echo: url: https://yugipedia.com/wiki/Click_&_Echo
+on 333: error occured for card Art du Grand Rituel : High Ritual Art: url: https://yugipedia.com/wiki/High_Ritual_Art Processing pack: BOÎTE DES DIEUX DU PHARAON 2022, Live☆Jumelle Sunny la Balance
+on 333: error occured for card Dinolutteur Iguanodraka : Dinowrestler Iguanodraka: url: https://yugipedia.com/wiki/Dinowrestler_IguanodrakaE DES DIEUX DU PHARAON 2022, Carpe Rouge Volante
+on 333: error occured for card Fuvagabonbrise et les Vents Inexplorés : Floowandereeze and the Unexplored Winds: url: https://yugioh.fandom.com/wiki/Floowandereeze_and_the_Unexplored_Winda Carte Magnifique
+on 333: error occured for card Fuvagabonbrise et les Vents Inexplorés : Floowandereeze and the Unexplored Winds: url: https://yugipedia.com/wiki/Floowandereeze_and_the_Unexplored_Windet la Carte Magnifique
